@@ -25,4 +25,3 @@ This is only the homepage of Netflix
 💥copy the favicon.png in the style folder here and paste it on a file and save it as "favicon.png" in the main folder.
 
 💥Click on the index.html and enjoy.
-
