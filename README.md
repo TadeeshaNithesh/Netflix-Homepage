@@ -1,4 +1,4 @@
-# Netflix-Homepage
+# Netflix Homepage
 This is only the homepage of Netflix
 
 # Created Using
