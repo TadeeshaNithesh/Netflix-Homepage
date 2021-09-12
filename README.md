@@ -11,7 +11,7 @@ This is only the homepage of Netflix
 # Download
 💥You can download this as a zipped file.
 
-# How to use
+# How to use if you won't download
 💥Create a Folder.
 
 💥Create a sub folder named "Style" inside on it.
