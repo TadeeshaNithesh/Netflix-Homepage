@@ -1,3 +1,5 @@
+<p align="center"><img src="img/banner.jpg"/></p>
+
 # Netflix Homepage
 This is only the homepage of Netflix
 
